@@ -94,7 +94,7 @@ Cách 1: Đặt `<br>` ở cuối câu để xuống dòng.<br> Dòng thứ hai.
 - Link: xem phần link
 - Align-center: Cú pháp: `<center>chữ muốn áp dụng</center>`
 - &nbsp;&nbsp;&nbsp;&nbsp; Tab keyboard. Cú pháp: `&nbsp;&nbsp;&nbsp;&nbsp; đoạn text`
-
+- Code: xem phần code
 
 
 
@@ -160,6 +160,22 @@ Kiểu số:
 - Indented item
     - Indented item
 4. Fourth item
+
+
+
+
+
+
+
+
+
+# Task List
+
+[x] Write the press release <br>
+[ ] Update the website<br>
+[ ] Contact the media<br>
+
+
 
 
 
